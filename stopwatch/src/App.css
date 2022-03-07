@@ -1,0 +1,17 @@
+.App {
+  background-color: #0d0c1b;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+html, body{
+  border-radius: 10px;
+  -webkit-app-region: drag;
+}
+
+
