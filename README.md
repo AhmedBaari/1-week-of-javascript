@@ -1,5 +1,6 @@
 # **1 Week of Javascript**
 [![Built On Visual Studio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://visualstudio.microsoft.com/) ![Javascript](https://img.shields.io/badge/Node%20js-FFD43B?style=for-the-badge&logo=nodejs&logoColor=darkgreen)
+
 This is a series of Javascript projects that I did 1 week in a row. Here are the projects:
 
 ## Contents
