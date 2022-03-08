@@ -5,7 +5,7 @@ This is a series of Javascript projects that I did 1 week in a row. Here are the
 
 ## Contents
 
- - [x] [Stopwatch](youtube.com) `7th March 2022`
+ - [x] [Stopwatch](https://github.com/Aayush-Rajagopalan/1-week-of-javascript/tree/main/stopwatch) Completed on `7th March 2022`
 
 
 ## About Me
